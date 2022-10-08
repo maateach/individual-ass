@@ -1,0 +1,66 @@
+
+table{
+    width: 1000px;
+    margin: auto;
+    table-layout: fixed;
+
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+     
+}
+
+h1 span{
+   background-color: aqua;
+   color: black;
+}
+td{
+    border: 2px dotted rgb(7, 7, 7);
+    border-radius: 20%;
+    height: 40px;
+    
+    text-align: center;
+    
+}
+.a{
+    background-color: rgb(98, 223, 223);
+}
+
+#one{
+    background-color: hsl(81, 100%, 50%);
+}
+
+#two{
+    background-color: rgb(31, 173, 230);
+}
+#three{
+    background-color: rgb(255, 142, 142);
+}
+#four{
+    background-color: rgb(42, 130, 165);
+}
+#five{
+    background-color: rgb(221, 42, 111);
+}
+#six{
+    background-color: rgb(236, 22, 22);
+}
+#seven{
+    background-color: rgb(205, 238, 20);
+}
+#eight{
+    background-color: brown;
+}
+#nine{
+    background-color: rgb(161, 42, 165);
+}
+#ten{
+    background-color: rgb(108, 165, 42);
+}
+#eleven{
+    background-color: brown;
+}
+#twelve{
+    background-color: rgb(233, 150, 27);
+}
